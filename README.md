@@ -34,5 +34,5 @@ Se evaluaron los siguientes indicadores:
 
 ## 👩‍💻 Autora
 
-Lissette Angélica Cardoso Godínez
+AngelicaCG93
 Proyecto realizado como parte del Challenge de Data Science - Alura Latam
